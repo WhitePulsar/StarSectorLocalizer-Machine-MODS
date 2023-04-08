@@ -1,0 +1,29 @@
+ Последняя осмотренная версия была Fleet Journal v1.0.6.
+ 
+ В самомо начале файла fleet_journal.jar.translation.json это название тегов, если и теги на экране информации не переведены, то при переводе этих тегов все значение будут попадать в Other (Другое).
+ Переводить только после того как будут переведены общие теги на экране Информации и возможно в модах.
+ На момент версии Fleet Journal v1.0.6 кнопка Manage entries(Управление записями) скрыта, но её можно включить в файле настроек Fleet Journal\fleet_journal_settings.ini
+  "Tags": "Теги",
+  "Important": "Важно",
+  "New": "Новый",
+  "Bounties": "Награды",
+  "Major events": "Важные события",
+  "Contacts": "Контакты",
+  "Fleet departures": "Вылеты флота",
+  "Smuggling": "Контрабанда",
+  "Exploration": "Исследование",
+  "Trade": "Торговля",
+  "Missions": "Миссии",
+  "Accepted": "Принято",
+  "Story": "История",
+  "Commission": "Поручение",
+  "Hostilities": "Военные действия",
+  "Military": "Военное",
+  "Warning beacons": "Предупреждающие маяки",
+  "Gates": "Врата",
+  "Colony threats": "Угрозы колонии",
+  "Comm sniffers": "Перехватчики связи",
+  "Decivilized": "Децивилизованный",
+  "Production": "Производство",
+  "Other": "Другое",
+  "DISMISS": null,
